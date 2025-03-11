@@ -1,4 +1,4 @@
-##include <stdio.h>
+#include <stdio.h>
 
 // Definição da estrutura da carta
 struct Carta {
